@@ -1,7 +1,11 @@
 # vision-transformer-for-figure-question-answering
 Figure Question Answering (FQA) is a multimodal task that tries to solve a high-level image understanding problem, where, for a scientific figure-question pair, e.g. does the red Gaussioan has the highest varaince?, the network should provide a correct answer. One of the main challenges in FQA is extracting rich features for figure represtantion. Furthermore, available dataset do not contain challenging figures. In this paper, we propose an FQA pipeline which incorporates the transformer architecture for enriched figure represtantion. This is in contrast to conventional methods that use CNNs. Additionally, we present the SBU-FQA dataset that is more diverse and challenging  compared to previous datasets. The dataset contains six different figure types with various figures in a single plot. Also, twenty-three question templates are created to make the task more challenging. The propsed method was evalauted on SBU-FQA, and showed significant improvements compared to the base-line and state of the art FQA methods. The results also indicated that the performance of previous method drops when tested on SBU-FQA dataset. 
 
+# Model Structure 
+![Group 188](https://user-images.githubusercontent.com/65096744/163026487-ba298f61-00e1-4051-bc72-b3d3fcc8fd1d.png)
+
 # Download Dataset
+
 To use our dataset (SBU-FQA) for training the provided python code. Easily use the link below for download.
 https://figshare.com/articles/dataset/EFQA/17005654
 
