@@ -4,7 +4,8 @@ from tensorflow.python.keras.layers import Input, Dense
 from tensorflow.python.keras.models import Sequential
 from keras import optimizers
 
-
+# To train our model, first it is necessary to merge the image features and question features together while paying attention to image_index , so now we have
+# an image which is repeated in different rows with new questions each time.
 
 
 qa_dataFrame = pd.read_csv('qa_pairs.csv')
@@ -22,8 +23,6 @@ image_embeddings['image_index'] = image_embeddings.index
 df_tot = pd.merge(qa_embeddings, image_embeddings, on='image_index', how='inner')
 
 
-
-
 X = df_tot
 Y = df_tot[["answer"]]
 
@@ -34,7 +33,6 @@ model = models.Sequential()
 model.add(layers.Dense(16, activation='relu', input_shape=(df_tot.shape[1],)))
 model.add(layers.Dense(16, activation='relu'))
 model.add(layers.Dense(1, activation='sigmoid'))
-
 
 
 
