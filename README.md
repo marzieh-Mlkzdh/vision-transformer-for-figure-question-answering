@@ -12,12 +12,7 @@ https://figshare.com/articles/dataset/EFQA/17005654
 # Sample data
 ![Figure7](https://user-images.githubusercontent.com/65096744/163022734-e417ed48-15ea-4a57-b2ce-6eea08f731f3.png)
 ![Figure5](https://user-images.githubusercontent.com/65096744/163022804-a255cf36-f7c1-46d2-9ef6-31af26a75a61.png)
-![S8_Fig](https://user-images.githubusercontent.com/65096744/163022894-da5d8456-5246-4de9-9f76-a2d1cdb7839e.png)
-![S9_Fig](https://user-images.githubusercontent.com/65096744/163022901-0daccfb1-f9a2-4b3e-bc57-f417bcd71ccf.png)
-![S14_Fig](https://user-images.githubusercontent.com/65096744/163022910-3cc5de10-85aa-4569-ba5c-c72c2034e7d4.png)
-![S17_Fig](https://user-images.githubusercontent.com/65096744/163022918-54f3b83c-89d0-4dd7-b33e-7a90b41d5a72.png)
 ![S18_Fig](https://user-images.githubusercontent.com/65096744/163022934-144ac332-bcee-44bb-be2d-52606b81dd27.png)
-![S10_Fig](https://user-images.githubusercontent.com/65096744/163022953-14dec422-1358-467c-b03b-f8162754de6b.png)
 ![S19_Fig](https://user-images.githubusercontent.com/65096744/163022960-b21364a5-7b60-4409-a098-a7581172eccd.png)
 ![Figure4](https://user-images.githubusercontent.com/65096744/163022989-93faebe5-86c5-4e2e-92b4-40a503d15b4c.png)
 
