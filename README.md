@@ -9,13 +9,6 @@ Figure Question Answering (FQA) is a multimodal task that tries to solve a high-
 To use our dataset (SBU-FQA) for training the provided python code. Easily use the link below for download.
 https://figshare.com/articles/dataset/EFQA/17005654
 
-# Sample data
-![Figure7](https://user-images.githubusercontent.com/65096744/163022734-e417ed48-15ea-4a57-b2ce-6eea08f731f3.png)
-![Figure5](https://user-images.githubusercontent.com/65096744/163022804-a255cf36-f7c1-46d2-9ef6-31af26a75a61.png)
-![S18_Fig](https://user-images.githubusercontent.com/65096744/163022934-144ac332-bcee-44bb-be2d-52606b81dd27.png)
-![S19_Fig](https://user-images.githubusercontent.com/65096744/163022960-b21364a5-7b60-4409-a098-a7581172eccd.png)
-![Figure4](https://user-images.githubusercontent.com/65096744/163022989-93faebe5-86c5-4e2e-92b4-40a503d15b4c.png)
-
 # Train 
 To train the model
 1- firstly you need to download the dataset, the existing files are in json format and it is better to reform them into csv, some websites do it for free.
@@ -23,4 +16,12 @@ To train the model
 3- finally you need to run the train.py . 
 
 # Appendix
+Here are some examples of model answers to a variety of questions.
 
+![appe1](https://user-images.githubusercontent.com/65096744/163945684-4dbafdc0-846f-4fc0-8648-08e121aeefd4.JPG)
+![appe2](https://user-images.githubusercontent.com/65096744/163945703-2ecbe246-0f2c-4f10-857c-5e451c295e2f.JPG)
+![appe3](https://user-images.githubusercontent.com/65096744/163945731-8540a5d5-c307-4b01-a1ea-557aadfa7816.JPG)
+![appe4](https://user-images.githubusercontent.com/65096744/163945751-d51b87c0-f93a-456b-874d-14a61e6267e1.JPG)
+![appe5](https://user-images.githubusercontent.com/65096744/163945764-4e181f71-d271-40b4-8919-dc8130644de4.JPG)
+![appe6](https://user-images.githubusercontent.com/65096744/163945798-2c8692eb-21b8-4b8f-9deb-7c5a3c2b51a3.JPG)
+![appe7](https://user-images.githubusercontent.com/65096744/163945869-ff872e94-8c0e-462a-b05a-3f3fb38e2090.JPG)
